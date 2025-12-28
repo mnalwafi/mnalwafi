@@ -1,53 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Nashih;I+Build+codera.agency;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dynamic&text=Nashih&desc=Creative%20Frontend%20Engineer&height=180&fontSize=90&descSize=22&fontAlign=50&fontAlignY=45&descAlign=50&descAlignY=78&font=Outfit" width="100%" alt="Header">
 </div>
 
-<div align="center">
-  <h3>🚀 Frontend Developer</h3>
-  <p>Based in Yogyakarta, ID</p>
-</div>
+<br/>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="middle" style="border: none;">
+      <h2>👋 Hello, I'm Nashih.</h2>
+      <p>
+        I am a <b>Creative Frontend Engineer</b> based in <b>Sleman, ID</b>. I craft digital experiences with a focus on clean aesthetics and modern functionality.
+      </p>
+      <p>
+        Currently, I am expanding my backend automation skills by mastering <b>n8n</b> while continuing to build robust frontends.
+      </p>
+      <p>
+        <i>🍿 Fun Fact: I spend my free time hunting down and watching anime that most people don't even know exist.</i>
+      </p>
+      <br/>
+      <div style="display: inline-block;">
+        <a href="mailto:mnalwafi2004@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/mnalwafi/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+        </a>
+        &nbsp;
+        <a href="https://mnalwafi.dev">
+            <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white" height="28">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+<br/>
+<br/>
 
-- 🔭 I’m currently working on **iCoss:Me Project for BCA**
-- 🌱 I’m currently learning **n8n AI Automation**
-- 👯 I’m looking to collaborate on **Frontend Projects**
-- ⚡ Fun fact: **I do enjoy watch some boring Anime that most people didn't even know it exist**
+<h2>✺ Featured Work</h2>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" style="border: none;">
+      <img src="https://upwork.com/att/download/portfolio/persons/uid/1872065888397133243/profile/projects/files/1eba43cf-e015-4eae-9649-7288739ac1d8" width="100%" style="border-radius: 8px;" alt="Project Screenshot">
+    </td>
+    <td width="40%" valign="top" style="padding-left: 20px; border: none;">
+      <h3>Codera Agency</h3>
+      <p>
+        I designed and developed this personal portfolio not just to display my work, but to demonstrate my standard for web performance and clean architecture.
+        <br/><br/>
+        While many portfolios are template-based, I built this from the ground up to showcase how I handle responsive design, accessibility (a11y), and SEO optimization in a production environment. It serves as a live example of the code quality I deliver to clients..
+      </p>
+      <p>
+        <b>Tech:</b> <code>React</code> · <code>Tailwind</code> · <code>n8n</code>
+      </p>
+      <br/>
+      <a href="codera.agency"><b>↗ Visit Live Site</b></a>
+      <br/>
+      <br/>
+      <small><i>🔒 Source code is private</i></small>
+    </td>
+  </tr>
+</table>
 
-### 🛠 Tech Stack
+<br/>
+<br/>
 
-<div align="center">
+<h2>⚡ Tech Stack</h2>
+<br>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,ts,angular,git,figma,nodejs&theme=light" />
   </a>
-</div>
+</p>
 
----
+<br/>
+<hr/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnalwafi&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnalwafi&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnalwafi&theme=tokyonight" alt="streak stats" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mnalwafi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:mnalwafi2004@gmail.com]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+<p align="center" style="color: #999; font-size: 12px;">
+  Designed by Nashih © 2025 <br>
+  <a href="https://mnalwafi.dev" style="text-decoration: none; color: #666;">mnalwafi.dev</a>
+</p>
