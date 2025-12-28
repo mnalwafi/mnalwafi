@@ -65,6 +65,17 @@
 </table>
 
 <br/>
+
+<br>
+<h2>📊 GitHub Activity</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/mnalwafi">
+<img  alt="mnalwafi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mnalwafi?cardType=level&fontFamily=Montserrat&preferLogin=false" />
+  </a>
+</div>
+
+<br/>
 <br/>
 
 <h2>⚡ Tech Stack</h2>
